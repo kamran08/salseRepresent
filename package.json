@@ -1,0 +1,29 @@
+{
+  "name": "testapifronted",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/moment": "^1.6.1",
+    "@nuxtjs/recaptcha": "^0.6.2",
+    "ant-design-vue": "^1.6.5",
+    "hooper": "^0.3.4",
+    "iview": "^3.5.4",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.0",
+    "npm-check-updates": "^9.0.3",
+    "nuxt": "^2.14.6",
+    "stripe": "^8.106.0",
+    "vue-html2pdf": "^1.8.0",
+    "vue-localstorage": "^0.6.2",
+    "vue-signature-pad": "^2.0.2"
+  },
+  "devDependencies": {}
+}
